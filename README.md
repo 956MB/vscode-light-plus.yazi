@@ -18,7 +18,7 @@
 
 ```bash
 # v25.5.28+
-ya pkg add vscode-light-plus
+ya pkg add 956MB/vscode-light-plus
 
 # pre v25.5.28 (deprecated)
 ya pack -a 956MB/vscode-light-plus
